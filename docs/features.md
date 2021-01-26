@@ -1,7 +1,7 @@
 ---
 date: '2019-07-10T07:00:00.000Z'
 title: Operating Systems
-last_edited: '2021-01-26T19:22:48.312Z'
+last_edited: '2021-01-26T19:36:04.222Z'
 ---
 An **operating system** (**OS**) is [system software](https://en.wikipedia.org/wiki/System_software "System software") that manages [computer hardware](https://en.wikipedia.org/wiki/Computer_hardware "Computer hardware"), [software](https://en.wikipedia.org/wiki/Computer_software "Computer software") resources, and provides common [services](https://en.wikipedia.org/wiki/Daemon_(computing) "Daemon (computing)") for [computer programs](https://en.wikipedia.org/wiki/Computer_program "Computer program").
 
@@ -16,4 +16,4 @@ Source: [Wikipedia](https://en.wikipedia.org/wiki/Operating_system)
 | Data 1 | Data 2 | Data 3 |
 | --- | --- | --- |
 | 1 | 2 | 3 |
-| 1 | 2 | 3 |
+| 1 | 2 | 4 |
